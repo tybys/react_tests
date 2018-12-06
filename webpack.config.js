@@ -1,17 +1,25 @@
 var webpack = require('webpack');
 
 module.exports = {
-  entry: './client/index.js',
+  entry: ['babel-polyfill', './client/index.js'],
   output: {
-    path: __dirname + '/public',
+    path: __dirname + '/client/public',
     filename: 'bundle.js'
   },
   module: {
-    loaders: [
+    rules: [
       {
-        test: /.jsx?$/,
+        test: /\.js$/,
+        exclude: /node_modules/,
         loader: 'babel-loader',
-        exclude: /node_modules/
+        query: {
+          presets: ["@babel/preset-env", "@babel/preset-react"],
+          plugins: ["@babel/plugin-proposal-class-properties"]
+        }
+      },
+      {
+        test: /\.css$/,
+        use: ['style-loader', 'css-loader']
       }
     ]
   }

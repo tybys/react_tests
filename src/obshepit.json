@@ -1,0 +1,4247 @@
+{
+  "result": {
+    "entry": [
+      {
+        "title": "кафе \"Густо Джусто\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "90",
+          "title": "РМЗ"
+        },
+        "adres_index": "350059",
+        "adres_city": "Краснодар",
+        "adres_street": "Уральская",
+        "adres_home": "79/2",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,035407",
+              "39,050053"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,035407",
+              "39,050053"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "Elisland1@yandex.ru"
+        },
+        "kolvomest": "48",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан \"Пражечка\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350004",
+        "adres_city": "Краснодар",
+        "adres_street": "Гоголя",
+        "adres_home": "68",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,02631",
+              "38,972636"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,02631",
+              "38,972636"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "telefon": {
+          "entry": "+7-(861)-279-52-03"
+        },
+        "email": {
+          "entry": "kafe8855@mail.ru"
+        },
+        "kolvomest": "100",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе ООО \"Про суши плюс\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красноармейская",
+        "adres_home": "67/1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,030776",
+              "38,97446"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,030776",
+              "38,97446"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-259-92-55"
+        },
+        "email": {
+          "entry": "krasnaya@probeshka.ru"
+        },
+        "kolvomest": "60"
+      },
+      {
+        "title": "кафе \"Патрик и Мари\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350020",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "158",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,038802",
+              "38,975996"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,038802",
+              "38,975996"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-252-41-33"
+        },
+        "kolvomest": "10",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "ресторан \"Балкан-Гриль\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350063",
+        "adres_city": "Краснодар",
+        "adres_street": "Советская",
+        "adres_home": "34",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,018207",
+              "38,964973"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,018207",
+              "38,964973"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "telefon": {
+          "entry": [
+            "+7-(861)-262-15-88",
+            "+7-(861)-245-41-55"
+          ]
+        }
+      },
+      {
+        "title": "кафе \"Набоков\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красноармейская",
+        "adres_home": "33",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,022991",
+              "38,971855"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,022991",
+              "38,971855"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-275-07-33"
+        },
+        "kolvomest": "60",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Шашлык-Аноц\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Фрунзе",
+        "adres_home": "96",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,031706",
+              "38,964237"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,031706",
+              "38,964237"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "kolvomest": "20",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "бар \"Фанат\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "68",
+          "title": "ККБ"
+        },
+        "adres_index": "350072",
+        "adres_city": "Краснодар",
+        "adres_street": "им. Героя Аверкиева А.А.",
+        "adres_home": "10",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,060854",
+              "39,030029"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,060854",
+              "39,030029"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "бар",
+        "kolvomest": "20",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Айриш Паб\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "174",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,044253",
+              "38,978457"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,044253",
+              "38,978457"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "kolvomest": "190",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Наш двор\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "111",
+          "title": "ЮМР"
+        },
+        "adres_index": "350089",
+        "adres_city": "Краснодар",
+        "adres_street": "70 лет Октября",
+        "adres_home": "14/1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,030629",
+              "38,904364"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,030629",
+              "38,904364"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-261-99-99"
+        },
+        "email": {
+          "entry": "nashdvor-1@mail.ru"
+        },
+        "kolvomest": "70",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Шашлычный двор\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "95",
+          "title": "СМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красных Партизан",
+        "adres_home": "163",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,059345",
+              "38,926184"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,059345",
+              "38,926184"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(918)-113-72-22"
+        },
+        "kolvomest": "30",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе ИП Курганская И.Н.",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "68",
+          "title": "ККБ"
+        },
+        "adres_index": "350029",
+        "adres_city": "Краснодар",
+        "adres_street": "Российская",
+        "adres_home": "510/1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,095102",
+              "39,01342"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,095102",
+              "39,01342"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "kolvomest": "10",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Фьюжн\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "69",
+          "title": "КМР"
+        },
+        "adres_index": "350088",
+        "adres_city": "Краснодар",
+        "adres_street": "30-й Иркутской дивизии",
+        "adres_home": "6/1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039056",
+              "39,103503"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039056",
+              "39,103503"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "Skil-sv@mail.ru"
+        },
+        "kolvomest": "30",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Не бей копытом\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "72",
+          "title": "КСК"
+        },
+        "adres_index": "350018",
+        "adres_city": "Краснодар",
+        "adres_street": "Сормовская",
+        "adres_home": "35/1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,027731",
+              "39,074568"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,027731",
+              "39,074568"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "rnv-1013@mail.ru"
+        },
+        "kolvomest": "21",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафетерий \"Итальянский сад\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "81",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,031184",
+              "38,972411"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,031184",
+              "38,972411"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафетерий",
+        "telefon": {
+          "entry": "+7-(861)-210-08-76"
+        },
+        "email": {
+          "entry": "giardino@list.ru"
+        },
+        "kolvomest": "4",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "ресторан быстрого обслуживания, KFC, ООО \"Гурман KFC",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "65",
+          "title": "ЗИП"
+        },
+        "adres_index": "350072",
+        "adres_city": "Краснодар",
+        "adres_street": "40 лет Победы",
+        "adres_home": "20/1-20/2",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,054805",
+              "39,0014"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,054805",
+              "39,0014"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан быстрого обслуживания",
+        "telefon": {
+          "entry": "+7-(861)-210-37-99"
+        },
+        "email": {
+          "entry": "yurist@gyrman.ru"
+        },
+        "kolvomest": "65",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан быстрого обслуживания \"КФС",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "В. Головатого",
+        "adres_home": "313",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан быстрого обслуживания",
+        "telefon": {
+          "entry": "+7-(861)-210-44-60"
+        },
+        "email": {
+          "entry": "yurist@gyrman.ru"
+        },
+        "kolvomest": "65",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан быстрого обслуживания \"КФС",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "71",
+          "title": "Красная Площадь"
+        },
+        "adres_index": "350005",
+        "adres_city": "Краснодар",
+        "adres_street": "Дзержинского",
+        "adres_home": "100",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,102915",
+              "38,984054"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,102915",
+              "38,984054"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан быстрого обслуживания",
+        "telefon": {
+          "entry": "+7-(861)-210-40-82"
+        },
+        "email": {
+          "entry": "yurist@gyrman.ru"
+        },
+        "kolvomest": "35",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан быстрого обслуживания\"КФС",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350058",
+        "adres_city": "Краснодар",
+        "adres_street": "Ставропольская",
+        "adres_home": "95",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,021526",
+              "39,014183"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,021526",
+              "39,014183"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан быстрого обслуживания",
+        "telefon": {
+          "entry": "+7-(861)-210-44-60"
+        },
+        "email": {
+          "entry": "yurist@gyrman.ru"
+        },
+        "kolvomest": "65",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан быстрого обслуживания\"КФС\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "76",
+          "title": "ПМР"
+        },
+        "adres_index": "350040",
+        "adres_city": "Краснодар",
+        "adres_street": "Крылатая",
+        "adres_home": "2",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,011446",
+              "39,122529"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,011446",
+              "39,122529"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан быстрого обслуживания",
+        "telefon": {
+          "entry": "+7-(861)-210-44-60"
+        },
+        "email": {
+          "entry": "yurist@gyrman.ru"
+        },
+        "kolvomest": "50",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан быстрого обслуживания ООО \"Гурман\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350063",
+        "adres_city": "Краснодар",
+        "adres_street": "Коммунаров",
+        "adres_home": "268",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,048342",
+              "38,983119"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,048342",
+              "38,983119"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан быстрого обслуживания",
+        "telefon": {
+          "entry": "+7-(861)-210-93-33"
+        },
+        "email": {
+          "entry": "yurist@gyrman.ru"
+        },
+        "kolvomest": "65",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Суп и Паста\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350063",
+        "adres_city": "Краснодар",
+        "adres_street": "Мира",
+        "adres_home": "40",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,020653",
+              "38,968872"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,020653",
+              "38,968872"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "kolvomest": "35",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"St Tropez\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Головатого",
+        "adres_home": "311",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039929",
+              "38,972178"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039929",
+              "38,972178"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "marja3@mail.ru"
+        },
+        "kolvomest": "72",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Нонна Миа\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Головатого",
+        "adres_home": "311",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039929",
+              "38,972178"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039929",
+              "38,972178"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-210-08-99"
+        },
+        "kolvomest": "70"
+      },
+      {
+        "title": "кафе \"Ёж\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350049",
+        "adres_city": "Краснодар",
+        "adres_street": "Красных Партизан",
+        "adres_home": "495",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,050354",
+              "38,963312"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,050354",
+              "38,963312"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-226-92-85"
+        },
+        "email": {
+          "entry": "t.fokeeva@mckeypub.com"
+        },
+        "kolvomest": "40",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе-бар IL Patio, ИП Васягин А.И.",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Мира",
+        "adres_home": "51",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,020086",
+              "38,975142"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,020086",
+              "38,975142"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-бар",
+        "telefon": {
+          "entry": "+7-(861)-239-62-62"
+        },
+        "email": {
+          "entry": "moda_k@mail.ru"
+        },
+        "kolvomest": "40",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Галя Гуляй\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350051",
+        "adres_city": "Краснодар",
+        "adres_street": "Дальняя",
+        "adres_home": "41",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,06107",
+              "38,96341"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,06107",
+              "38,96341"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "galagulyai@yandex.ru"
+        },
+        "kolvomest": "120",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Frash Fit\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "104",
+          "title": "ХБК"
+        },
+        "adres_index": "350075",
+        "adres_city": "Краснодар",
+        "adres_street": "Стасова",
+        "adres_home": "182",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,02982",
+              "39,046181"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,02982",
+              "39,046181"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "mer-barmanager@xfit.ru"
+        },
+        "kolvomest": "36",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Бари Галуст\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "58",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,02568",
+              "38,971342"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,02568",
+              "38,971342"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "gp@barygalust.ru"
+        },
+        "kolvomest": "70",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Барин\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "72",
+          "title": "КСК"
+        },
+        "adres_index": "350018",
+        "adres_city": "Краснодар",
+        "adres_street": "Сормовская",
+        "adres_home": "9/1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,02459",
+              "39,066393"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,02459",
+              "39,066393"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-240-49-24"
+        },
+        "email": {
+          "entry": "tillypad@rambler.ru"
+        },
+        "kolvomest": "40",
+        "imyaseti": "да"
+      },
+      {
+        "title": "пивной бар ИП Мартыненко А.А.",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "104",
+          "title": "ХБК"
+        },
+        "adres_index": "350075",
+        "adres_city": "Краснодар",
+        "adres_street": "Стасова",
+        "adres_home": "187",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,030349",
+              "39,042911"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,030349",
+              "39,042911"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "пивной бар",
+        "kolvomest": "10"
+      },
+      {
+        "title": "ИП кафе \"2*2\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350063",
+        "adres_city": "Краснодар",
+        "adres_street": "Седина",
+        "adres_home": "11",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,015607",
+              "38,974082"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,015607",
+              "38,974082"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "pavlus_david@mail.ru"
+        },
+        "kolvomest": "40",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Ирис\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красноармейская",
+        "adres_home": "33",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,022991",
+              "38,971855"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,022991",
+              "38,971855"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "info@vri.su"
+        },
+        "kolvomest": "75",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан быстрого обслуживания ООО \"Гурман Краснодар\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "67",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,028986",
+              "38,971702"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,028986",
+              "38,971702"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан быстрого обслуживания",
+        "telefon": {
+          "entry": "+7-(861)-210-44-59"
+        },
+        "email": {
+          "entry": "gurmanpronto@bk.ru"
+        },
+        "kolvomest": "65"
+      },
+      {
+        "title": "кафе \"Чайхона\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "111",
+          "title": "ЮМР"
+        },
+        "adres_index": "350089",
+        "adres_city": "Краснодар",
+        "adres_street": "Чекистов пр-т",
+        "adres_home": "36",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,031744",
+              "38,917479"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,031744",
+              "38,917479"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-241-23-56"
+        },
+        "email": {
+          "entry": "maximenko92@icloud.com"
+        },
+        "kolvomest": "130",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Хинкали Хаус\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350049",
+        "adres_city": "Краснодар",
+        "adres_street": "Тургенева",
+        "adres_home": "122",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,055149",
+              "38,960823"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,055149",
+              "38,960823"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "xinkalihays@mail.ru"
+        },
+        "kolvomest": "55",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе ООО \"Эпсилон Сигма\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "160",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039795",
+              "38,976436"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039795",
+              "38,976436"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-251-62-54"
+        },
+        "email": {
+          "entry": "ikpiramida2@list.ru"
+        },
+        "kolvomest": "60",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Кафе ИП Саков Д.К. ",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "160",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039795",
+              "38,976436"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039795",
+              "38,976436"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "ikpiramida2@list.ru"
+        },
+        "kolvomest": "30",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе-пекарня \"Хлебные истории\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350007",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "17",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,019028",
+              "38,968315"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,019028",
+              "38,968315"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-пекарня",
+        "telefon": {
+          "entry": "+7-(861)-273-76-49"
+        },
+        "email": {
+          "entry": "stiharev@breadstories.ru"
+        },
+        "kolvomest": "59",
+        "imyaseti": "да"
+      },
+      {
+        "title": "закусочная \"Печка\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350062",
+        "adres_city": "Краснодар",
+        "adres_street": "Атарбекова",
+        "adres_home": "28/2",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,059166",
+              "38,95149"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,059166",
+              "38,95149"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "email": {
+          "entry": "dimkras13@mail.ru"
+        },
+        "imyaseti": "нет"
+      },
+      {
+        "title": "Бар \"Панда\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красноармейская",
+        "adres_home": "64",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,028355",
+              "38,974028"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,028355",
+              "38,974028"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "бар",
+        "telefon": {
+          "entry": "+7-(861)-210-44-31"
+        },
+        "email": {
+          "entry": "info@probeshka.ru"
+        },
+        "kolvomest": "160",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Про суши\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красноармейская",
+        "adres_home": "64",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,028355",
+              "38,974028"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,028355",
+              "38,974028"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-210-44-31"
+        },
+        "email": {
+          "entry": "info@probeshka.ru"
+        },
+        "kolvomest": "160",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе-пекарня \"Ряженка\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Головатого",
+        "adres_home": "311",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039929",
+              "38,972178"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039929",
+              "38,972178"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-пекарня",
+        "telefon": {
+          "entry": "+7-(861)-279-99-02"
+        },
+        "email": {
+          "entry": "admin@madyar.ru"
+        },
+        "kolvomest": "55",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе-пекарня \"Ряженка\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "71",
+          "title": "Красная Площадь"
+        },
+        "adres_index": "350005",
+        "adres_city": "Краснодар",
+        "adres_street": "Дзержинского",
+        "adres_home": "100",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,102915",
+              "38,984054"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,102915",
+              "38,984054"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-пекарня",
+        "telefon": {
+          "entry": "+7-(861)-279-99-02"
+        },
+        "email": {
+          "entry": "admin@madyar.ru"
+        },
+        "kolvomest": "54",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Кафе-пекарня \"Ряженка\" ООО \"Палинка\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350049",
+        "adres_city": "Краснодар",
+        "adres_street": "Красных Партизан",
+        "adres_home": "515",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,049934",
+              "38,966231"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,049934",
+              "38,966231"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-пекарня",
+        "telefon": {
+          "entry": "+7-(861)-279-99-02"
+        },
+        "email": {
+          "entry": "admin@madyar.ru"
+        },
+        "kolvomest": "61",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе-бар \"Камбуз\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350020",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "143",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,045603",
+              "38,97728"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,045603",
+              "38,97728"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-бар",
+        "telefon": {
+          "entry": "+7-(861)-255-99-77"
+        },
+        "email": {
+          "entry": "tvm.13@mail.ru"
+        },
+        "kolvomest": "36",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе ООО \"Бульвар\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Космонавта Гагарина",
+        "adres_home": "53",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,055372",
+              "38,944357"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,055372",
+              "38,944357"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-320-70-83"
+        },
+        "email": {
+          "entry": "bulvar.res@mail.ru"
+        },
+        "kolvomest": "80",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Сельпо\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Тургенева",
+        "adres_home": "155",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,062318",
+              "38,960446"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,062318",
+              "38,960446"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-226-46-07"
+        },
+        "email": {
+          "entry": "zoya280@mail.ru"
+        },
+        "kolvomest": "120",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"БОРЩBERRY\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "182",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,047883",
+              "38,979382"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,047883",
+              "38,979382"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "naira11@list.ru"
+        },
+        "kolvomest": "120",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кофейня \"Старбакс\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "68",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,027272",
+              "38,971603"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,027272",
+              "38,971603"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кофейня",
+        "telefon": {
+          "entry": "+7-(495)-648-95-80"
+        },
+        "email": {
+          "entry": "info@moneks.ru"
+        },
+        "kolvomest": "56",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Белая Береза\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Карасунская",
+        "adres_home": "149",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,026075",
+              "38,986856"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,026075",
+              "38,986856"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-251-86-39"
+        },
+        "email": {
+          "entry": "oooinessa@list.ru"
+        },
+        "kolvomest": "70",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Бар Министерство\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "104",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03226",
+              "38,973741"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03226",
+              "38,973741"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "bar.minik@mail.ru"
+        },
+        "kolvomest": "50",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Закусочная \"Виктория\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350001",
+        "adres_city": "Краснодар",
+        "adres_street": "Вишняковой",
+        "adres_home": "118",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,020309",
+              "38,999846"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,020309",
+              "38,999846"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "telefon": {
+          "entry": "+7-(861)-239-75-46"
+        },
+        "email": {
+          "entry": "oook-2@mail.ru"
+        },
+        "kolvomest": "40",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Green Bar\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350051",
+        "adres_city": "Краснодар",
+        "adres_street": "Аэродромная",
+        "adres_home": "112",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,054499",
+              "38,967641"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,054499",
+              "38,967641"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "kushka73@mail.ru"
+        },
+        "kolvomest": "40",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан \"LA VILLA\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Рашпилевская",
+        "adres_home": "106",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03691",
+              "38,972537"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03691",
+              "38,972537"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "email": {
+          "entry": "kgb-krasnodar@mail.ru"
+        },
+        "kolvomest": "130",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Bread&Питъ\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "71",
+          "title": "Красная Площадь"
+        },
+        "adres_index": "350001",
+        "adres_city": "Краснодар",
+        "adres_street": "Дзержинского",
+        "adres_home": "100",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,102915",
+              "38,984054"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,102915",
+              "38,984054"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "bpwork@mail.ru"
+        },
+        "kolvomest": "250",
+        "imyaseti": "да"
+      },
+      {
+        "title": "закусочная ООО \"Хот Спот\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Буденного",
+        "adres_home": "143",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,035853",
+              "38,977415"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,035853",
+              "38,977415"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "email": {
+          "entry": "xotspot@yandex.ru"
+        },
+        "kolvomest": "27",
+        "imyaseti": "да"
+      },
+      {
+        "title": "бар ООО \"Альтернатива\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "104",
+          "title": "ХБК"
+        },
+        "adres_index": "350018",
+        "adres_city": "Краснодар",
+        "adres_street": "Сормовская",
+        "adres_home": "7",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,02547",
+              "39,061641"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,02547",
+              "39,061641"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "бар",
+        "email": {
+          "entry": "opium23.ru@mail.ru"
+        },
+        "kolvomest": "10",
+        "imyaseti": "да"
+      },
+      {
+        "title": "закусочная \"Шаурма\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "190",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,050475",
+              "38,980541"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,050475",
+              "38,980541"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "kolvomest": "12",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "Кафе-пекарня \"Тутти-Фрутти\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "68",
+          "title": "ККБ"
+        },
+        "adres_index": "350059",
+        "adres_city": "Краснодар",
+        "adres_street": "Восточно-Кругликовская",
+        "adres_home": "98",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,06962",
+              "39,029419"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,06962",
+              "39,029419"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-пекарня",
+        "email": {
+          "entry": "polianskaia3xl@mail.ru"
+        },
+        "kolvomest": "30",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Т-кафе\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350063",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "16",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,018162",
+              "38,968459"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,018162",
+              "38,968459"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-268-03-33"
+        },
+        "email": {
+          "entry": "t-caf@mail.ru"
+        },
+        "kolvomest": "108",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан \"Вайн Экспресс\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "60",
+          "title": "Аврора"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красных Партизан",
+        "adres_home": "521",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,04994",
+              "38,966806"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,04994",
+              "38,966806"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "email": {
+          "entry": "kaunovai@wineexpress.ru"
+        },
+        "kolvomest": "60",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Прима Вера\", ООО \"Прима Вера Плюс\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "68",
+          "title": "ККБ"
+        },
+        "adres_index": "350029",
+        "adres_city": "Краснодар",
+        "adres_street": "1 Мая",
+        "adres_home": "168",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,056288",
+              "39,02296"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,056288",
+              "39,02296"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-279-64-42"
+        },
+        "email": {
+          "entry": "primavera_italia@mail.ru"
+        },
+        "kolvomest": "85",
+        "imyaseti": "да"
+      },
+      {
+        "title": "столовая ИП Лепеха Т.В.",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350059",
+        "adres_city": "Краснодар",
+        "adres_street": "Селезнева",
+        "adres_home": "4",
+        "adres_corp": "3",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,028011",
+              "39,019636"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,028011",
+              "39,019636"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "столовая",
+        "email": {
+          "entry": "natt17@yandex.ru"
+        },
+        "kolvomest": "50",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "Закусочная \"КАРРЕРА\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "72",
+          "title": "КСК"
+        },
+        "adres_index": "350080",
+        "adres_city": "Краснодар",
+        "adres_street": "Уральская",
+        "adres_home": "79",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "telefon": {
+          "entry": "+7-(861)-210-16-03"
+        },
+        "email": {
+          "entry": "zaharchenko_i@domsbs.ru"
+        },
+        "kolvomest": "118",
+        "imyaseti": "да"
+      },
+      {
+        "title": "закусочная \"Импульс\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "65",
+          "title": "ЗИП"
+        },
+        "adres_index": "350042",
+        "adres_city": "Краснодар",
+        "adres_street": "Московская",
+        "adres_home": "5",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,069728",
+              "39,00052"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,069728",
+              "39,00052"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "telefon": {
+          "entry": "+7-(861)-210-16-03"
+        },
+        "email": {
+          "entry": "zaharchenko_i@domsbs.ru"
+        },
+        "kolvomest": "45"
+      },
+      {
+        "title": "кафе \"Прима Вера\", ООО \"СВ\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "72",
+          "title": "КСК"
+        },
+        "adres_index": "350080",
+        "adres_city": "Краснодар",
+        "adres_street": "Уральская",
+        "adres_home": "79",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-210-16-03"
+        },
+        "email": {
+          "entry": "zaharchenko_i@domsbs.ru"
+        },
+        "kolvomest": "40",
+        "imyaseti": "да"
+      },
+      {
+        "title": "закусочная \"Легион\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "72",
+          "title": "КСК"
+        },
+        "adres_index": "350080",
+        "adres_city": "Краснодар",
+        "adres_street": "Уральская",
+        "adres_home": "79",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "telefon": {
+          "entry": "+7-(861)-210-16-03"
+        },
+        "email": {
+          "entry": "zaharchenko_i@domsbs.ru"
+        },
+        "kolvomest": "150",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Закусочная \"Бомонд\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "72",
+          "title": "КСК"
+        },
+        "adres_index": "350080",
+        "adres_city": "Краснодар",
+        "adres_street": "Уральская",
+        "adres_home": "79",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "telefon": {
+          "entry": "+7-(861)-210-16-03"
+        },
+        "email": {
+          "entry": "zaharchenko_i@domsbs.ru"
+        },
+        "kolvomest": "94",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан \"Ташкент\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350062",
+        "adres_city": "Краснодар",
+        "adres_street": "Тургенева",
+        "adres_home": "149",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,060465",
+              "38,95935"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,060465",
+              "38,95935"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "telefon": {
+          "entry": "+7-(861)-215-43-84"
+        },
+        "email": {
+          "entry": "restoran.tashkent.run@mail.ru"
+        },
+        "kolvomest": "80",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Джазве\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красноармейская",
+        "adres_home": "58",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,025973",
+              "38,973355"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,025973",
+              "38,973355"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "alevtina-jazzve@mail.ru"
+        },
+        "kolvomest": "80",
+        "imyaseti": "да"
+      },
+      {
+        "title": "концерт холл \"Ла Скала\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "65",
+          "title": "ЗИП"
+        },
+        "adres_index": "350072",
+        "adres_city": "Краснодар",
+        "adres_street": "Московская",
+        "adres_home": "79",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,070906",
+              "39,000367"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,070906",
+              "39,000367"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "концерт холл",
+        "kolvomest": "74",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Маруся\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "109",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,036757",
+              "38,973768"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,036757",
+              "38,973768"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-279-99-02"
+        },
+        "email": {
+          "entry": "kafeMarusya2010@mail.ru"
+        },
+        "kolvomest": "80",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Ресторан \"Амиралия\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "62",
+          "title": "ГМР"
+        },
+        "adres_index": "350061",
+        "adres_city": "Краснодар",
+        "adres_street": "Игнатова",
+        "adres_home": "8",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,009738",
+              "39,071487"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,009738",
+              "39,071487"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "email": {
+          "entry": "Vika3078@mail.ru"
+        },
+        "kolvomest": "69",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Закусочная \"Шаурма",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350001",
+        "adres_city": "Краснодар",
+        "adres_street": "Ставропольская",
+        "adres_home": "110",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,0195",
+              "38,999702"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,0195",
+              "38,999702"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "kolvomest": "8",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "Ресторан \"Фамилия\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "104",
+          "title": "ХБК"
+        },
+        "adres_index": "350075",
+        "adres_city": "Краснодар",
+        "adres_street": "Стасова",
+        "adres_home": "189",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,031795",
+              "39,043163"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,031795",
+              "39,043163"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "email": {
+          "entry": "Leo938@yandex.ru"
+        },
+        "kolvomest": "70",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ООО \"Шоколадница-Краснодар-2\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "76",
+          "title": "ПМР"
+        },
+        "adres_index": "350912",
+        "adres_city": "Краснодар",
+        "adres_street": "Бершанской",
+        "adres_home": "355",
+        "adres_corp": "А",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,034107",
+              "39,139202"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,034107",
+              "39,139202"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-267-10-13"
+        },
+        "email": {
+          "entry": "shoko-308@shoko.ru"
+        },
+        "kolvomest": "60",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"АРБАТ\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "81",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,031184",
+              "38,972411"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,031184",
+              "38,972411"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-251-04-61"
+        },
+        "email": {
+          "entry": "kafearbat@rambler.ru"
+        },
+        "kolvomest": "60",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Едоша\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "68",
+          "title": "ККБ"
+        },
+        "adres_index": "350900",
+        "adres_city": "Краснодар",
+        "adres_street": "Достоевского",
+        "adres_home": "86",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,055244",
+              "39,015216"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,055244",
+              "39,015216"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "magazin.krasnodar@edosha.ru"
+        },
+        "kolvomest": "67",
+        "imyaseti": "да"
+      },
+      {
+        "title": "закусочная ИП Козина А.С.",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "65",
+          "title": "ЗИП"
+        },
+        "adres_index": "350072",
+        "adres_city": "Краснодар",
+        "adres_street": "Московская",
+        "adres_home": "83",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,077977",
+              "38,999873"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,077977",
+              "38,999873"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "email": {
+          "entry": "susanna_sas@bk.ru"
+        },
+        "kolvomest": "24",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "ООО \"Шоколадница-Краснодар\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "72",
+          "title": "КСК"
+        },
+        "adres_index": "350080",
+        "adres_city": "Краснодар",
+        "adres_street": "Уральская",
+        "adres_home": "79",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03449",
+              "39,052586"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-267-10-13"
+        },
+        "email": {
+          "entry": "shoko-257@shoko.ru"
+        },
+        "kolvomest": "118"
+      },
+      {
+        "title": "караоке-кафе \"Патисон",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350002",
+        "adres_city": "Краснодар",
+        "adres_street": "Леваневского",
+        "adres_home": "185",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039782",
+              "38,986749"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039782",
+              "38,986749"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-275-09-32"
+        },
+        "email": {
+          "entry": "strike_10@bk.ru"
+        },
+        "kolvomest": "130",
+        "imyaseti": "да"
+      },
+      {
+        "title": "закусочная \"JOJO\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350063",
+        "adres_city": "Краснодар",
+        "adres_street": "Красная",
+        "adres_home": "78",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,029438",
+              "38,972438"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,029438",
+              "38,972438"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "email": {
+          "entry": "kafejojo@mail.ru"
+        },
+        "kolvomest": "40",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Гастропаб Красный пес\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Головатого",
+        "adres_home": "311",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039929",
+              "38,972178"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039929",
+              "38,972178"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "ergin_nadya@mail.ru"
+        },
+        "kolvomest": "120",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Кафе \"Диманш\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Головатого",
+        "adres_home": "313",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "kolvomest": "80"
+      },
+      {
+        "title": "кафе \"Мартон\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "70",
+          "title": "Кожзавод"
+        },
+        "adres_index": "350004",
+        "adres_city": "Краснодар",
+        "adres_street": "Калинина",
+        "adres_home": "364",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03991",
+              "38,955182"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03991",
+              "38,955182"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "pavelko@list.ru"
+        },
+        "kolvomest": "24",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Закусочная ИП Мнацаканян А.А.",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350049",
+        "adres_city": "Краснодар",
+        "adres_street": "Воровского",
+        "adres_home": "221",
+        "adres_corp": "2",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,055149",
+              "38,955802"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,055149",
+              "38,955802"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "email": {
+          "entry": "mnacakanyan-1977@mail.ru"
+        },
+        "kolvomest": "20",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе-пекарня ИП Малмыгин А.А.",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Головатого",
+        "adres_home": "313",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-пекарня",
+        "kolvomest": "10",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафетерий \"Чайкоff\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Орджоникидзе",
+        "adres_home": "41",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,022297",
+              "38,971298"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,022297",
+              "38,971298"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафетерий",
+        "telefon": {
+          "entry": "+7-(861)-275-26-60"
+        },
+        "email": {
+          "entry": "mail@chaikoff.ru"
+        },
+        "kolvomest": "26"
+      },
+      {
+        "title": "кафе \"Рис Лапша\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350058",
+        "adres_city": "Краснодар",
+        "adres_street": "Ставропольская",
+        "adres_home": "121",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,021513",
+              "39,020337"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,021513",
+              "39,020337"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-292-37-95"
+        },
+        "email": {
+          "entry": "ris.lapshakrasnodar@mail.ru"
+        },
+        "kolvomest": "26",
+        "imyaseti": "да"
+      },
+      {
+        "title": "Айрапетян И.Г.",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350033",
+        "adres_city": "Краснодар",
+        "adres_street": "Привокзальная площадь",
+        "adres_home": "7",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,019685",
+              "38,988644"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,019685",
+              "38,988644"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "бистро",
+        "kolvomest": "12",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"ЯмаIкафе\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Рашпилевская",
+        "adres_home": "130",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,044247",
+              "38,97516"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,044247",
+              "38,97516"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "4418816@mail.ru"
+        },
+        "kolvomest": "48",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"GREEK HOUSE\"",
+        "adres_index": "385100",
+        "adres_city": "Республика Адыгея, аул Тахтамукай",
+        "adres_street": "Тлиша",
+        "adres_home": "17",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "44,924832",
+              "38,987629"
+            ]
+          },
+          "point": {
+            "entry": [
+              "44,924832",
+              "38,987629"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "kolvomest": "30",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе All Bar ООО \"АльфаГрупп\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,034477",
+              "38,978412"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,034477",
+              "38,978412"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "matvei988@list.ru"
+        },
+        "kolvomest": "48",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Винсент\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Мира",
+        "adres_home": "35",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,021048",
+              "38,969788"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,021048",
+              "38,969788"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-267-18-64"
+        },
+        "email": {
+          "entry": "vinsent_cafe@mail.ru"
+        },
+        "kolvomest": "20"
+      },
+      {
+        "title": "кафе \"МАРС\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350075",
+        "adres_city": "Краснодар",
+        "adres_street": "Селезнева",
+        "adres_home": "204",
+        "adres_corp": "2",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,01734",
+              "39,052146"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,01734",
+              "39,052146"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "kolvomest": "48",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе-пекарня ООО \"Сила\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Коммунаров",
+        "adres_home": "268",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,048342",
+              "38,983119"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,048342",
+              "38,983119"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе-пекарня",
+        "email": {
+          "entry": "cinnabon_ug@mail.ru"
+        },
+        "kolvomest": "30",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"КИНЗА\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350049",
+        "adres_city": "Краснодар",
+        "adres_street": "Красных Партизан",
+        "adres_home": "204",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,049692",
+              "38,964857"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,049692",
+              "38,964857"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "kinza-caf@mail.ru"
+        },
+        "kolvomest": "130",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Дирижабль\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Седина",
+        "adres_home": "11",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,015607",
+              "38,974082"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,015607",
+              "38,974082"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "yura-sayapin@mail.ru"
+        },
+        "kolvomest": "32",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Limonade\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350001",
+        "adres_city": "Краснодар",
+        "adres_street": "Ставропольская",
+        "adres_home": "236",
+        "adres_corp": "А",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,015996",
+              "39,036731"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,015996",
+              "39,036731"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "limonad@kinomonitork.ru"
+        },
+        "kolvomest": "54",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Кино кафе\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350001",
+        "adres_city": "Краснодар",
+        "adres_street": "Ставропольская",
+        "adres_home": "236",
+        "adres_corp": "А",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,015996",
+              "39,036731"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,015996",
+              "39,036731"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "limonad@kinomonitork.ru"
+        },
+        "kolvomest": "50",
+        "imyaseti": "да"
+      },
+      {
+        "title": "закусочная ИП Ходжаян К.А.",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Привокзальная площадь",
+        "adres_home": "7",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,019685",
+              "38,988644"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,019685",
+              "38,988644"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "закусочная",
+        "kolvomest": "16",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"ProSushi\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Головатого",
+        "adres_home": "313",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-210-44-31"
+        },
+        "email": {
+          "entry": "gallereya@probeshka.ru"
+        },
+        "kolvomest": "200",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "ресторан \"Робинзон Крузо\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "68",
+          "title": "ККБ"
+        },
+        "adres_index": "350059",
+        "adres_city": "Краснодар",
+        "adres_street": "Восточно-Кругликовская",
+        "adres_home": "40",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,051417",
+              "39,026813"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,051417",
+              "39,026813"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "email": {
+          "entry": "robinzon_kruzo_2013@mail.ru"
+        },
+        "kolvomest": "500",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Встреча\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350001",
+        "adres_city": "Краснодар",
+        "adres_street": "Вишняковой",
+        "adres_home": "120",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,020519",
+              "38,999873"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,020519",
+              "38,999873"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-239-50-19"
+        },
+        "email": {
+          "entry": "samson-pravo@yandex.ru"
+        },
+        "kolvomest": "40"
+      },
+      {
+        "title": "ресторан LA VACA, ООО \"Комида-групп\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Аэродромная",
+        "adres_home": "13",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,046419",
+              "38,968809"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,046419",
+              "38,968809"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "email": {
+          "entry": "comidagroup@bk.ru"
+        },
+        "kolvomest": "60",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Оливье\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Головатого",
+        "adres_home": "313",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,039515",
+              "38,974424"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "rekx@indox.ru"
+        },
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе Bo-bo ООО \"Скала\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "65",
+          "title": "ЗИП"
+        },
+        "adres_index": "350059",
+        "adres_city": "Краснодар",
+        "adres_street": "Московская",
+        "adres_home": "79",
+        "adres_corp": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,070906",
+              "39,000367"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,070906",
+              "39,000367"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "kolvomest": "65",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Матрешка\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350062",
+        "adres_city": "Краснодар",
+        "adres_street": "Яна Полуяна",
+        "adres_home": "51",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,064425",
+              "38,956448"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,064425",
+              "38,956448"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-273-81-67"
+        },
+        "email": {
+          "entry": "caf_matreshka@mail.ru"
+        },
+        "kolvomest": "70",
+        "imyaseti": "да"
+      },
+      {
+        "title": "ресторан \"Белый Кролик\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "70",
+          "title": "Кожзавод"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Буденного",
+        "adres_home": "2",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,037617",
+              "38,953646"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,037617",
+              "38,953646"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "ресторан",
+        "telefon": {
+          "entry": "+7-(861)-202-42-34"
+        },
+        "email": {
+          "entry": "Anastas-wok@mail.ru"
+        },
+        "kolvomest": "180",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"PEPECHOLE\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "65",
+          "title": "ЗИП"
+        },
+        "adres_index": "350059",
+        "adres_city": "Краснодар",
+        "adres_street": "Московская",
+        "adres_home": "79",
+        "adres_corp": "3",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,072032",
+              "39,000205"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,072032",
+              "39,000205"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "mirzakhanyan84@mail.ru"
+        },
+        "kolvomest": "36",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафетерий ИП Горбатовский В.Н.",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "107",
+          "title": "ЦМР"
+        },
+        "adres_index": "350000",
+        "adres_city": "Краснодар",
+        "adres_street": "Северная",
+        "adres_home": "490",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,03663",
+              "38,996343"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,03663",
+              "38,996343"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафетерий",
+        "telefon": {
+          "entry": "+7-(861)-222-05-35"
+        },
+        "email": {
+          "entry": "gorbatovski@gmail.com"
+        },
+        "kolvomest": "25"
+      },
+      {
+        "title": "кафе \"Нагано\"",
+        "adres_district": {
+          "id": "1",
+          "title": "Западный Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350051",
+        "adres_city": "Краснодар",
+        "adres_street": "Лузана",
+        "adres_home": "10",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,068665",
+              "38,979257"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,068665",
+              "38,979257"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-269-90-40"
+        },
+        "email": {
+          "entry": "2699040@gmail.com"
+        },
+        "kolvomest": "50",
+        "imyaseti": "нет"
+      },
+      {
+        "title": "кафе \"Green Bar\"",
+        "adres_district": {
+          "id": "3",
+          "title": "Прикубанский Округ"
+        },
+        "adres_region": {
+          "id": "103",
+          "title": "ФМР"
+        },
+        "adres_index": "350062",
+        "adres_city": "Краснодар",
+        "adres_street": "Анисовая",
+        "adres_home": "39",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,06645",
+              "38,947438"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,06645",
+              "38,947438"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "sgsazonov@gmail.com"
+        },
+        "kolvomest": "40",
+        "imyaseti": "да"
+      },
+      {
+        "title": "кафе \"Томми Ли\"",
+        "adres_district": {
+          "id": "2",
+          "title": "Центральный Округ"
+        },
+        "adres_region": {
+          "id": "108",
+          "title": "ЧМР"
+        },
+        "adres_index": "350033",
+        "adres_city": "Краснодар",
+        "adres_street": "Набережная",
+        "adres_home": "1",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,013281",
+              "38,981682"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,013281",
+              "38,981682"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "telefon": {
+          "entry": "+7-(861)-279-99-02"
+        },
+        "email": {
+          "entry": "Tommilee007@mail.ru"
+        },
+        "kolvomest": "176",
+        "imyaseti": "да"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+.preloader {
+    display: none;
+}
+
+.catalog.loading img {
+    display: block;
+}
+
+/**/
+.item {
+    border: 1px solid;
+}

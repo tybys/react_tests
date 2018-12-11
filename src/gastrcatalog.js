@@ -18,7 +18,7 @@ class Catalog extends Component {
 
 
   getLinks = () => {
-    fetch("/obshepit.json", {})
+    fetch("/obshepit2.json", {})
       .then(data => data.json())
       .then(data => {
         this.setState({ datas: data.result.entry, isLoading: false });

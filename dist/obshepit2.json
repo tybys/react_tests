@@ -1,0 +1,42 @@
+{
+  "result": {
+    "entry": [
+      {
+        "title": "кафе \"Густо Джусто\"",
+        "adres_district": {
+          "id": "4",
+          "title": "Карасунский Округ"
+        },
+        "adres_region": {
+          "id": "90",
+          "title": "РМЗ"
+        },
+        "adres_index": "350059",
+        "adres_city": "Краснодар",
+        "adres_street": "Уральская",
+        "adres_home": "79/2",
+        "yandekskart": {
+          "center": {
+            "entry": [
+              "45,035407",
+              "39,050053"
+            ]
+          },
+          "point": {
+            "entry": [
+              "45,035407",
+              "39,050053"
+            ]
+          },
+          "zoom": "18"
+        },
+        "tippred": "кафе",
+        "email": {
+          "entry": "Elisland1@yandex.ru"
+        },
+        "kolvomest": "48",
+        "imyaseti": "да"
+      }
+    ]
+  }
+}

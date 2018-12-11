@@ -1,45 +1,8 @@
 import React, {Component} from 'react';
 import '../content/styles/app.css';
 //import ymaps from 'https://api-maps.yandex.ru/2.1/?apikey=00e75280-8fc4-4bda-a42b-b3b263a55f72&lang=ru_RU'
-fetch('https://api-maps.yandex.ru/2.1/?apikey=00e75280-8fc4-4bda-a42b-b3b263a55f72&lang=ru_RU').then(() => {
-  const ymaps = global.ymaps;
-
-  var locateRequest = ymaps.panorama.locate([55.83403, 37.623370]);
-
-  locateRequest.then(
-    function (panoramas) {
-      if (panoramas.length) {
-        console.log("Ура, нашлась панорама " + panoramas[0]);
-      } else {
-        console.log("Для заданной точки не найдено ни одной панорамы.");
-      }
-    },
-    function (err) {
-      console.log("При попытке получить панораму возникла ошибка.");
-    }
-  );
-  debugger
-});
-//console.log(window.ymaps.panorama)
-function panoramas(coordinates) {
-  //debugger
-
-
-  /*var locateRequest = window.ymaps.panorama.locate(coordinates);
-
-  locateRequest.then(
-    function (panoramas) {
-      if (panoramas.length) {
-        console.log("Ура, нашлась панорама " + panoramas[0]);
-      } else {
-        console.log("Для заданной точки не найдено ни одной панорамы.");
-      }
-    },
-    function (err) {
-      console.log("При попытке получить панораму возникла ошибка.");
-    }
-  );*/
-}
+import { YMaps } from 'react-yandex-maps'
+import Panorama from "./Panorama";
 
 function items(props) {
   //let places = props.data.map((item, index) => item.title);
@@ -47,7 +10,8 @@ function items(props) {
 // debugger
   const markup = props.data.map((item, index) => {
     // debugger
-    const coords = item.yandekskart.center.entry;
+    const coords = item.yandekskart.center.entry.map(coord=> parseFloat(coord.replace(",", ".")));
+    let player = `player${index}`;
 
     return (
       <div key={index} className="item" data-x={coords[0]} data-y={coords[1]}>
@@ -58,6 +22,10 @@ function items(props) {
 
         {item.telefon !== undefined ? item.telefon.entry : ''}
         {/*{panoramas(coords)}*/}
+        <div id={player} className="player" />
+        <YMaps version="2.1" query={{apikey: '00e75280-8fc4-4bda-a42b-b3b263a55f72', lang: 'en_RU'}}>
+          <Panorama player={player} coord={coords} />
+        </YMaps>
       </div>
     )
   });

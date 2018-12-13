@@ -19,7 +19,8 @@ class Index extends Component {
 
   render() {
     return (
-      <div>jiopa</div>
+      {/*<div>jiopa</div>*/},
+      null
     )
   }
 }

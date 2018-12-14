@@ -22,7 +22,7 @@ function items(props) {
 
         {item.telefon !== undefined ? item.telefon.entry : ''}
 
-        <div id={player} className="player" />
+        {/*<div id={player} className="player" />*/}
 
         {/*<YMaps version="2.1" query={{apikey: '00e75280-8fc4-4bda-a42b-b3b263a55f72', lang: 'en_RU'}}>
           <Panorama player={player} coord={coords} />

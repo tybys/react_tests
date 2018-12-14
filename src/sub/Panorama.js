@@ -1,7 +1,6 @@
 import React from "react";
 import {withYMaps} from "react-yandex-maps";
 import '../content/styles/app.css';
-import html2canvas from 'html2canvas';
 
 class Panorama extends React.Component {
 	constructor(props) {

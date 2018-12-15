@@ -1,41 +1,55 @@
 import React, {Component} from 'react';
 import '../content/styles/app.css';
-//import ymaps from 'https://api-maps.yandex.ru/2.1/?apikey=00e75280-8fc4-4bda-a42b-b3b263a55f72&lang=ru_RU'
-import { YMaps } from 'react-yandex-maps'
-import Panorama from "./Panorama";
 
-function items(props) {
-  //let places = props.data.map((item, index) => item.title);
+class Items extends Component {
+  render() {
+		let categores = this.props.data.map((item, index) => item.tippred);
+		categores = [... new Set(categores)];
 
-// debugger
-  const markup = props.data.map((item, index) => {
-    // debugger
-    const coords = item.yandekskart.center.entry.map(coord=> parseFloat(coord.replace(",", ".")));
-    let player = `player${index}`;
+		const category = categores.map((item, index) =>
+      <div key={index}>
+        <h2>{item}</h2>
+        <div>
+					{
+					  this.props.data.map((_item, _index) => {
+							if (_item.tippred == item) {
+							  return (
+									<div key={_index}>{_item.title}</div>
+                )
+              }
+            })
+					}
+        </div>
+      </div>
+    );
 
-    return (
-      <div key={index} className="item" data-x={coords[0]} data-y={coords[1]}>
-        {index + 1}
-        {item.title}
-        {item.adres_street}
-        {item.adres_home}
-
-        {item.telefon !== undefined ? item.telefon.entry : ''}
-
-        {/*<div id={player} className="player" />*/}
-
-        {/*<YMaps version="2.1" query={{apikey: '00e75280-8fc4-4bda-a42b-b3b263a55f72', lang: 'en_RU'}}>
-          <Panorama player={player} coord={coords} />
-        </YMaps>*/}
+		return(
+      <div>
+				{category}
       </div>
     )
-  });
-
-  //debugger
-
-  return (
-		markup
-  )
+  }
 }
 
-export default items
+export default Items
+
+/*
+<sup><strong>{index + 1}</strong></sup>&nbsp;
+{item.title}&nbsp;
+{item.adres_street}&nbsp;
+{item.adres_home}&nbsp;
+
+{item.telefon !== undefined ? item.telefon.entry : ''}
+
+const markup = this.props.data.map((item, index) => {
+			//const coords = item.yandekskart.center.entry.map(coord=> parseFloat(coord.replace(",", ".")));
+
+			// debugger
+
+			return (
+				<div key={index} data-type={item.tippred} className="item">
+          <h2>item</h2>
+				</div>
+			)
+		});
+ */

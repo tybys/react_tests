@@ -6,12 +6,12 @@ function filter(props) {
 
   const markup = categores.map((item, index) => {
     return (
-      <option key={index}>{item}</option>
+      <option value={item} key={index}>{item}</option>
     )
   });
 
   return (
-    <select>
+    <select onSelect={console.log('select')}>
       <option>все</option>
       {markup}
     </select>
